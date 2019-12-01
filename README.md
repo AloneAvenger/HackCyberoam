@@ -16,3 +16,8 @@ This Script is used to brute force a single user id.
 	 
 4. logout.py
    This Script is only used to logout from a specified account.
+
+Change the URL of Taget in all 4 files in the functions 
+  sendLoginRequest() and sendLogoutRequest()
+  
+  ENJOY..!!!!
